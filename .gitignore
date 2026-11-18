@@ -1,0 +1,6 @@
+apk_build/
+__pycache__/
+*.pyc
+*.idsig
+.DS_Store
+*.log
